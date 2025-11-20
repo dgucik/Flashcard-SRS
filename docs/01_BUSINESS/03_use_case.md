@@ -1,4 +1,4 @@
-# Use Case Model
+# Business Use Cases
 Use Cases describe **how users interact with the system** to achieve specific goals, illustrating practical scenarios of system usage from the user's perspective.
 
 ## Actors
@@ -36,4 +36,4 @@ Use Cases describe **how users interact with the system** to achieve specific go
 | **UC23** | Send Review Notifications | System | The system sends notifications and emails reminding the user to review due flashcards. |
 
 ## Diagram
-![Use Case Diagram](../img/use-case-model.svg)
+![Use Case Diagram](../img/use-case-diagram.svg)

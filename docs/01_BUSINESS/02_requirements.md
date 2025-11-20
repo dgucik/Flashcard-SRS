@@ -13,8 +13,8 @@ Requirements define **what the system must do** and specify the features, capabi
 
 ### Dashboard (D)
 - **D001** – User views the `space` after logging in.
-- **D002** – The system displays a list of the user's own `sets` on the `space`, including copied public sets, which are treated as fully independent copies.
-- **D003** – The list of sets shows only: title, description, tags, number of `flashcards`, whether the set is public, and the percentage `Progress`. Detailed `statistics` of the `set` (number of `flashcards` at `levels` 1–5 and `memorized`, time spent studying in the last week) and the option to start a test `session` are displayed on `set's` `dashboard` when clicking on a specific `set`.
+- **D002** – The system displays a list of the user's own `sets` on the `space`, including copied public `sets`, which are treated as fully independent copies.
+- **D003** – The list of sets shows only: title, description, tags, number of `flashcards`, whether the `set` is public, and the percentage `Progress`. Detailed `statistics` of the `set` (number of `flashcards` at `levels` 1–5 and `memorized`, time spent studying in the last week) and the option to start a test `session` are displayed on `set's` `dashboard` when clicking on a specific `set`.
 - **D004** – The system allows filtering and sorting `sets`, e.g., by `Progress` or `flashcards` that need to be reviewed now.
 
 ### Sets (S)

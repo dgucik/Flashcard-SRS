@@ -1,4 +1,4 @@
-# Glossary
+# Business Glossary
 
 ## Terms
 | Term | Definition |
