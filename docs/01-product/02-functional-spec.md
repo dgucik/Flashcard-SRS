@@ -41,13 +41,13 @@
 ### Feature 2.3: Set Management
 * **Process:** User creates/edits a set -> Defines metadata -> Adds Flashcards.
 * **Business Rules:**
-    * **SET-01:** User must choose type: `Standard` or `Language`.
+    * **SET-01:** User must choose type: Standard or Language.
     * **SET-02:** **Limit:** Maximum 200 Flashcards per set.
     * **SET-03:** User can delete a set permanently.
 
 ### Feature 2.4: Flashcard Operations
 * **Business Rules:**
-    * **CARD-01:** If Set Type is `Language`, system automatically generates Translation Hints & Examples.
+    * **CARD-01:** If Set Type is Language, system automatically generates Translation Hints & Examples.
     * **CARD-02:** All new flashcards initialize at **Level 1**.
 
 ---
