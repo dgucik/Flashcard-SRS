@@ -9,14 +9,16 @@
     * **BR-1101:** Passwords must be hashed securely.
     * **BR-1102:** Successful registration automatically logs the user in.
     * **BR-1103:** User must confirm registration via email link within 24h.
-* **Visual Logic Reference:** * **Process Diagram (BPMN):** [User Registration](../assets/bpmn/bpmn-user-registration.png)
+* **Visual Logic Reference:** 
+    * **Process Diagram (BPMN):** [User Registration](../assets/bpmn/bpmn-user-registration.png)
 
 ### Feature 1.2: Authentication (Login/Logout)
 * **Process:** User logs in via Email/Password OR "Continue with Google".
 * **Business Rules:**
     * **BR-1201:** Session persists until explicit logout.
     * **BR-1202:** User can request a password reset via email link.
-* **Visual Logic Reference:** * **Process Diagram (BPMN):** [User Login](../assets/bpmn/bpmn-user-login.png)
+* **Visual Logic Reference:** 
+    * **Process Diagram (BPMN):** [User Login](../assets/bpmn/bpmn-user-login.png)
 
 ---
 
